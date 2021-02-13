@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 7a1adbb45c7aacc4784bab157889bc10
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Candle_SF006
+    100004: Candle_SF007
+    100006: Candle_SF008
+    100008: Candle_SF01
+    100010: Candle_SF04
+    100012: Candle_SF05
+    100014: Chef
+    100016: Chickpea1
+    100018: Chickpea2
+    100020: Chickpea3
+    100022: Decor holder_Sd
+    100024: Deep plate1
+    100026: Deep plate2
+    100028: Deep plate3
+    100030: for spices
+    100032: for spicesSS1
+    100034: Fork_SF
+    100036: Knife_SF
+    100038: Napkin H
+    100040: Napkin holder
+    100042: Pepper
+    100044: Plate
+    100046: Rectangular napkin_SF
+    100048: RosemarySFFF
+    100050: Salt
+    100052: Wineglass_SSf__
+    400000: //RootNode
+    400002: Candle_SF006
+    400004: Candle_SF007
+    400006: Candle_SF008
+    400008: Candle_SF01
+    400010: Candle_SF04
+    400012: Candle_SF05
+    400014: Chef
+    400016: Chickpea1
+    400018: Chickpea2
+    400020: Chickpea3
+    400022: Decor holder_Sd
+    400024: Deep plate1
+    400026: Deep plate2
+    400028: Deep plate3
+    400030: for spices
+    400032: for spicesSS1
+    400034: Fork_SF
+    400036: Knife_SF
+    400038: Napkin H
+    400040: Napkin holder
+    400042: Pepper
+    400044: Plate
+    400046: Rectangular napkin_SF
+    400048: RosemarySFFF
+    400050: Salt
+    400052: Wineglass_SSf__
+    2100000: Napkin01SF
+    2100002: glass SL
+    2100004: cutleryS
+    2100006: brushed_stainless
+    2100008: 'Material #611'
+    2100010: PlateS
+    2100012: 'Material #20'
+    2100014: Candle_SL01
+    2100016: 'Material #2457'
+    2100018: Leaves0001
+    2100020: Wick_S
+    2100022: plastic_St
+    2100024: Candle_SF
+    2100026: Chickpea2
+    2100028: 'Material #2045432544'
+    2100030: Chickpea1
+    2100032: Chickpea3
+    2100034: Napkin01SF.001
+    2100036: _1Default_Fabric_FRONT_3574
+    2100038: Candle_SL_WoodSF
+    2100040: Candle_SL1
+    2100042: Salt
+    2100044: PepperSD
+    2300000: Candle_SF006
+    2300002: Candle_SF007
+    2300004: Candle_SF008
+    2300006: Candle_SF01
+    2300008: Candle_SF04
+    2300010: Candle_SF05
+    2300012: Chef
+    2300014: Chickpea1
+    2300016: Chickpea2
+    2300018: Chickpea3
+    2300020: Decor holder_Sd
+    2300022: Deep plate1
+    2300024: Deep plate2
+    2300026: Deep plate3
+    2300028: for spices
+    2300030: for spicesSS1
+    2300032: Fork_SF
+    2300034: Knife_SF
+    2300036: Napkin H
+    2300038: Napkin holder
+    2300040: Pepper
+    2300042: Plate
+    2300044: Rectangular napkin_SF
+    2300046: RosemarySFFF
+    2300048: Salt
+    2300050: Wineglass_SSf__
+    3300000: Candle_SF006
+    3300002: Candle_SF007
+    3300004: Candle_SF008
+    3300006: Candle_SF01
+    3300008: Candle_SF04
+    3300010: Candle_SF05
+    3300012: Chef
+    3300014: Chickpea1
+    3300016: Chickpea2
+    3300018: Chickpea3
+    3300020: Decor holder_Sd
+    3300022: Deep plate1
+    3300024: Deep plate2
+    3300026: Deep plate3
+    3300028: for spices
+    3300030: for spicesSS1
+    3300032: Fork_SF
+    3300034: Knife_SF
+    3300036: Napkin H
+    3300038: Napkin holder
+    3300040: Pepper
+    3300042: Plate
+    3300044: Rectangular napkin_SF
+    3300046: RosemarySFFF
+    3300048: Salt
+    3300050: Wineglass_SSf__
+    4300000: Napkin H
+    4300002: Wineglass_SSf__
+    4300004: Knife_SF
+    4300006: Decor holder_Sd
+    4300008: Plate
+    4300010: Chef
+    4300012: RosemarySFFF
+    4300014: Fork_SF
+    4300016: Candle_SF04
+    4300018: Candle_SF01
+    4300020: Candle_SF05
+    4300022: Chickpea2
+    4300024: Deep plate2
+    4300026: Chickpea1
+    4300028: Deep plate1
+    4300030: Chickpea3
+    4300032: Deep plate3
+    4300034: Rectangular napkin_SF
+    4300036: Napkin holder
+    4300038: for spicesSS1
+    4300040: Salt
+    4300042: for spices
+    4300044: Pepper
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

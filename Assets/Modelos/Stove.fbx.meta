@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 210067944602a594ea846d186cd2ee40
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Oven Tray
+    100002: //RootNode
+    100004: Stove Buttons
+    100006: Stove Buttons.001
+    100008: Stove Buttons.002
+    100010: Stove Door
+    100012: Stove Door Front Glas
+    100014: Stove Door Handle
+    100016: Stove Feet
+    100018: Stove Flame Stone
+    100020: Stove Flame Stone.001
+    100022: Stove Flame Stone.002
+    100024: Stove Flame Stone.003
+    100026: Stove Flame System
+    100028: Stove Flame System.001
+    100030: Stove Flame System.002
+    100032: Stove Flame System.003
+    100034: Stove Text
+    100036: Stove Text.001
+    100038: Stove Text.002
+    100040: Stove Text.003
+    100042: Stove Text.004
+    100044: Stove Text.005
+    100046: Stove Text.006
+    100048: Stove Text.007
+    100050: Stove Top Grid
+    100052: Stove Top Grid.001
+    100054: Stove Top Panel
+    100056: Stove Volume Control
+    100058: Stove Volume Control.001
+    100060: Stove Volume Control.002
+    100062: Stove Volume Control.003
+    100064: Stove Volume Control.004
+    100066: Text
+    100068: Text.001
+    100070: Text.002
+    100072: Text.003
+    100074: Text.004
+    100076: Text.005
+    100078: Text.006
+    100080: Text.007
+    100082: Text.008
+    100084: Text.009
+    100086: Text.010
+    100088: Text.011
+    100090: Text.012
+    100092: Text.013
+    100094: Text.014
+    100096: Text.015
+    100098: Text.016
+    100100: Text.017
+    100102: Text.018
+    100104: Text.019
+    400000: Oven Tray
+    400002: //RootNode
+    400004: Stove Buttons
+    400006: Stove Buttons.001
+    400008: Stove Buttons.002
+    400010: Stove Door
+    400012: Stove Door Front Glas
+    400014: Stove Door Handle
+    400016: Stove Feet
+    400018: Stove Flame Stone
+    400020: Stove Flame Stone.001
+    400022: Stove Flame Stone.002
+    400024: Stove Flame Stone.003
+    400026: Stove Flame System
+    400028: Stove Flame System.001
+    400030: Stove Flame System.002
+    400032: Stove Flame System.003
+    400034: Stove Text
+    400036: Stove Text.001
+    400038: Stove Text.002
+    400040: Stove Text.003
+    400042: Stove Text.004
+    400044: Stove Text.005
+    400046: Stove Text.006
+    400048: Stove Text.007
+    400050: Stove Top Grid
+    400052: Stove Top Grid.001
+    400054: Stove Top Panel
+    400056: Stove Volume Control
+    400058: Stove Volume Control.001
+    400060: Stove Volume Control.002
+    400062: Stove Volume Control.003
+    400064: Stove Volume Control.004
+    400066: Text
+    400068: Text.001
+    400070: Text.002
+    400072: Text.003
+    400074: Text.004
+    400076: Text.005
+    400078: Text.006
+    400080: Text.007
+    400082: Text.008
+    400084: Text.009
+    400086: Text.010
+    400088: Text.011
+    400090: Text.012
+    400092: Text.013
+    400094: Text.014
+    400096: Text.015
+    400098: Text.016
+    400100: Text.017
+    400102: Text.018
+    400104: Text.019
+    2100000: Stove Dark Grey Steel
+    2100002: Stove Inside Black Metal
+    2100004: Dark Black Glass
+    2100006: Stove Glass
+    2100008: Stove Black Metal
+    2100010: Grey Steel
+    2100012: Shiny Steel
+    2100014: Black Plastic
+    2100016: Stove Grey Steel Smooth
+    2100018: White Plastic
+    2100020: Stove Stone
+    2100022: Black Text
+    2300000: Oven Tray
+    2300002: //RootNode
+    2300004: Stove Buttons
+    2300006: Stove Buttons.001
+    2300008: Stove Buttons.002
+    2300010: Stove Door
+    2300012: Stove Door Front Glas
+    2300014: Stove Door Handle
+    2300016: Stove Feet
+    2300018: Stove Flame Stone
+    2300020: Stove Flame Stone.001
+    2300022: Stove Flame Stone.002
+    2300024: Stove Flame Stone.003
+    2300026: Stove Flame System
+    2300028: Stove Flame System.001
+    2300030: Stove Flame System.002
+    2300032: Stove Flame System.003
+    2300034: Stove Text
+    2300036: Stove Text.001
+    2300038: Stove Text.002
+    2300040: Stove Text.003
+    2300042: Stove Text.004
+    2300044: Stove Text.005
+    2300046: Stove Text.006
+    2300048: Stove Text.007
+    2300050: Stove Top Grid
+    2300052: Stove Top Grid.001
+    2300054: Stove Top Panel
+    2300056: Stove Volume Control
+    2300058: Stove Volume Control.001
+    2300060: Stove Volume Control.002
+    2300062: Stove Volume Control.003
+    2300064: Stove Volume Control.004
+    2300066: Text
+    2300068: Text.001
+    2300070: Text.002
+    2300072: Text.003
+    2300074: Text.004
+    2300076: Text.005
+    2300078: Text.006
+    2300080: Text.007
+    2300082: Text.008
+    2300084: Text.009
+    2300086: Text.010
+    2300088: Text.011
+    2300090: Text.012
+    2300092: Text.013
+    2300094: Text.014
+    2300096: Text.015
+    2300098: Text.016
+    2300100: Text.017
+    2300102: Text.018
+    2300104: Text.019
+    3300000: Oven Tray
+    3300002: //RootNode
+    3300004: Stove Buttons
+    3300006: Stove Buttons.001
+    3300008: Stove Buttons.002
+    3300010: Stove Door
+    3300012: Stove Door Front Glas
+    3300014: Stove Door Handle
+    3300016: Stove Feet
+    3300018: Stove Flame Stone
+    3300020: Stove Flame Stone.001
+    3300022: Stove Flame Stone.002
+    3300024: Stove Flame Stone.003
+    3300026: Stove Flame System
+    3300028: Stove Flame System.001
+    3300030: Stove Flame System.002
+    3300032: Stove Flame System.003
+    3300034: Stove Text
+    3300036: Stove Text.001
+    3300038: Stove Text.002
+    3300040: Stove Text.003
+    3300042: Stove Text.004
+    3300044: Stove Text.005
+    3300046: Stove Text.006
+    3300048: Stove Text.007
+    3300050: Stove Top Grid
+    3300052: Stove Top Grid.001
+    3300054: Stove Top Panel
+    3300056: Stove Volume Control
+    3300058: Stove Volume Control.001
+    3300060: Stove Volume Control.002
+    3300062: Stove Volume Control.003
+    3300064: Stove Volume Control.004
+    3300066: Text
+    3300068: Text.001
+    3300070: Text.002
+    3300072: Text.003
+    3300074: Text.004
+    3300076: Text.005
+    3300078: Text.006
+    3300080: Text.007
+    3300082: Text.008
+    3300084: Text.009
+    3300086: Text.010
+    3300088: Text.011
+    3300090: Text.012
+    3300092: Text.013
+    3300094: Text.014
+    3300096: Text.015
+    3300098: Text.016
+    3300100: Text.017
+    3300102: Text.018
+    3300104: Text.019
+    4300000: Stove
+    4300002: Stove Door Front Glas
+    4300004: Stove Door
+    4300006: Stove Door Handle
+    4300008: Oven Tray
+    4300010: Stove Volume Control
+    4300012: Stove Volume Control.001
+    4300014: Stove Volume Control.002
+    4300016: Stove Volume Control.003
+    4300018: Stove Volume Control.004
+    4300020: Stove Buttons
+    4300022: Stove Buttons.001
+    4300024: Stove Buttons.002
+    4300026: Stove Top Panel
+    4300028: Stove Flame System
+    4300030: Stove Flame Stone
+    4300032: Stove Flame System.001
+    4300034: Stove Flame Stone.001
+    4300036: Stove Flame System.002
+    4300038: Stove Flame Stone.002
+    4300040: Stove Flame System.003
+    4300042: Stove Flame Stone.003
+    4300044: Stove Top Grid
+    4300046: Stove Top Grid.001
+    4300048: Stove Feet
+    4300050: Stove Text
+    4300052: Text
+    4300054: Text.001
+    4300056: Text.002
+    4300058: Stove Text.001
+    4300060: Text.003
+    4300062: Text.004
+    4300064: Text.005
+    4300066: Stove Text.002
+    4300068: Text.006
+    4300070: Text.007
+    4300072: Text.008
+    4300074: Stove Text.003
+    4300076: Text.009
+    4300078: Text.010
+    4300080: Text.011
+    4300082: Stove Text.004
+    4300084: Text.012
+    4300086: Text.013
+    4300088: Text.014
+    4300090: Text.015
+    4300092: Text.016
+    4300094: Text.017
+    4300096: Text.018
+    4300098: Text.019
+    4300100: Stove Text.005
+    4300102: Stove Text.006
+    4300104: Stove Text.007
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: f962c780455e82d4a9e5f257709d76c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cavalier 1
+    100002: Cavalier 2
+    100004: Dame
+    100006: Fou 1
+    100008: Fou 2
+    100010: //RootNode
+    100012: Pion 1
+    100014: Pion 2
+    100016: Pion 3
+    100018: Pion 4
+    100020: Pion 5
+    100022: Pion 6
+    100024: Pion 7
+    100026: Pion 8
+    100028: Roi
+    100030: Tour 1
+    100032: Tour 2
+    400000: Cavalier 1
+    400002: Cavalier 2
+    400004: Dame
+    400006: Fou 1
+    400008: Fou 2
+    400010: //RootNode
+    400012: Pion 1
+    400014: Pion 2
+    400016: Pion 3
+    400018: Pion 4
+    400020: Pion 5
+    400022: Pion 6
+    400024: Pion 7
+    400026: Pion 8
+    400028: Roi
+    400030: Tour 1
+    400032: Tour 2
+    2100000: No Name
+    2300000: Cavalier 1
+    2300002: Cavalier 2
+    2300004: Dame
+    2300006: Fou 1
+    2300008: Fou 2
+    2300010: Pion 1
+    2300012: Pion 2
+    2300014: Pion 3
+    2300016: Pion 4
+    2300018: Pion 5
+    2300020: Pion 6
+    2300022: Pion 7
+    2300024: Pion 8
+    2300026: Roi
+    2300028: Tour 1
+    2300030: Tour 2
+    3300000: Cavalier 1
+    3300002: Cavalier 2
+    3300004: Dame
+    3300006: Fou 1
+    3300008: Fou 2
+    3300010: Pion 1
+    3300012: Pion 2
+    3300014: Pion 3
+    3300016: Pion 4
+    3300018: Pion 5
+    3300020: Pion 6
+    3300022: Pion 7
+    3300024: Pion 8
+    3300026: Roi
+    3300028: Tour 1
+    3300030: Tour 2
+    4300000: Cavalier 2
+    4300002: Roi
+    4300004: Dame
+    4300006: Cavalier 1
+    4300008: Fou 2
+    4300010: Fou 1
+    4300012: Pion 1
+    4300014: Pion 2
+    4300016: Pion 3
+    4300018: Pion 4
+    4300020: Pion 5
+    4300022: Pion 6
+    4300024: Pion 8
+    4300026: Tour 2
+    4300028: Tour 1
+    4300030: Pion 7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
